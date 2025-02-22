@@ -1,0 +1,6 @@
+{
+	"showMsg": true,
+	"msg": "has fun watching this",
+	"author": "I hope Montekey",
+	"sizeLOL": 0.16
+}
